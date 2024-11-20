@@ -4,4 +4,4 @@ we test various formulas from our mathematical paper
 "Complete homogeneous symmetric polynomials with repeating variables".
 
 The code is written in Sagemath.
-The code is very repetitive because each program is independent.
+The code is very repetitive because each script (file) is independent from the others.
