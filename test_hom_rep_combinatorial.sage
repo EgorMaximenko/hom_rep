@@ -1,3 +1,9 @@
+# This program is a part of the project
+# "Complete homogeneous symmetric polynomials with repeating variables"
+# by Luis Angel Gonzalez Serrano and Egor A. Maximenko (2024).
+
+# In this program, we test our combinatorial formula
+# for complete polynomials with repeating variables.
 
 def lists_with_bounded_sum(n, s):
     # lists [k_0, k_1, ..., k_{n-1}] with k_0 + k_1 + ... + k_{n-1} \le s
